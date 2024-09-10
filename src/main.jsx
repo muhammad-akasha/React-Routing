@@ -7,7 +7,7 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import SingalPro from "./components/SingalPro";
-import NoPage from "./pages/noPage";
+import NoPage from "./pages/NoPage";
 
 const route = createBrowserRouter([
   {
